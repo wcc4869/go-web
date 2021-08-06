@@ -1,0 +1,15 @@
+server:
+  port: 8888
+database:
+  drivername: mysql
+  host: 127.0.0.1
+  port: 3306
+  database: go-web-edu
+  username: root
+  password: 123
+  charset: utf8mb4
+
+
+
+
+
